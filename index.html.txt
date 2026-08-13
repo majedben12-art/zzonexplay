@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>ZoneXPlay Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>ZoneXPlay</h1>
+    <p>متجر الإلكترونيات والألعاب</p>
+</header>
+
+<section class="hero">
+    <h2>أقوى منتجات الألعاب والإلكترونيات</h2>
+    <p>اختيارات احترافية بأسعار مناسبة</p>
+</section>
+
+<section class="products">
+
+    <div class="product">
+        <img src="product1.jpg" alt="منتج 1">
+        <h3>اسم المنتج</h3>
+        <p>وصف بسيط للمنتج.</p>
+        <span class="price">99 ريال</span>
+        <a class="btn" href="https://wa.me/966000000000">اطلب الآن</a>
+    </div>
+
+    <div class="product">
+        <img src="product2.jpg" alt="منتج 2">
+        <h3>اسم المنتج</h3>
+        <p>وصف بسيط للمنتج.</p>
+        <span class="price">149 ريال</span>
+        <a class="btn" href="https://wa.me/966000000000">اطلب الآن</a>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 ZoneXPlay</p>
+</footer>
+
+</body>
+</html>
